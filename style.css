@@ -123,6 +123,9 @@ p{
     display: inline-block;
     margin-left: 15px;
 }
+.left_content .single_article .continue_r:hover{
+    color: green;
+}
 #side_bar{
     float: right;
     width: 280px;
